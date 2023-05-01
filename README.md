@@ -12,6 +12,8 @@ I'm a second-year computer science student at the Hebrew University. I'm passion
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orcohennn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orcohennn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=orcohennn&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
