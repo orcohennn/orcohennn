@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second-year computer science student at the Hebrew University. I'm passionate about programming and enjoy exploring different areas of computer science. Some of my current interests include machine learning, cryptography and cybersecurity.<br><br>In my free time, I like to work on personal programming projects and contribute to open source software. I'm also a big fan of video games and enjoy playing and discussing them with friends.<br><br>I'm always eager to learn new things and take on new challenges, and I'm looking forward to expanding my knowledge and skills as a computer scientist. If you'd like to connect or collaborate, feel free to reach out!
+I'm a third-year computer science student at the Hebrew University. I'm passionate about programming and enjoy exploring different areas of computer science. Some of my current interests include machine learning, cryptography and cybersecurity.<br><br>In my free time, I like to work on personal programming projects and contribute to open source software. I'm also a big fan of video games and enjoy playing and discussing them with friends.<br><br>I'm always eager to learn new things and take on new challenges, and I'm looking forward to expanding my knowledge and skills as a computer scientist. If you'd like to connect or collaborate, feel free to reach out!
 
 
 # 💻 Tech Stack:
